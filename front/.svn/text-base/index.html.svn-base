@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head lang="zh-cn">
+	<meta charset="UTF-8">
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="msapplication-tap-highlight" content="no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
+	<link rel="stylesheet" type="text/css" href="css/dookayui.css">
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<title>东西</title>
+</head>
+<body>
+<div class="product-about-w">
+	<div class="nav-list">
+		<a class="active" href="#">商品详情</a>
+		<a href="#">商品评价</a>
+	</div>
+	<div class="product-about">
+		<div class="product-about-title"><span class="i-h"></span>图文详情</div>
+		<div class="product-about-stitle">
+			<p><span class="i-w">品牌名称</span>东西耳机</p>
+			<p><span class="i-w">商品名称</span>东西耳机东西耳机东西耳机东西耳机</p>
+			<p><span class="i-w">产地</span>瑞士</p>
+			<p><span class="i-w">颜色</span>白色/黑色</p>
+		</div>
+		<div class="mb-2">
+			日单原单rageblue卫衣内衬纯色衬衫效果一流，也可以配搭短款外套日系造型必备item内有抓绒，第一次穿着会有稍微掉绒现象建议先洗一次或可用封箱胶纸将浮毛贴出来本店一直有做开rageblue的原单产品，相信熟客一定会有印象数量不多，另外部分会出现缺领标现象，随机发货，介意者勿拍--
+		</div>
+		<div class="mb-1-5">
+			<img src="temp/p1.jpg" alt="#"/>
+		</div>
+		<div class="mb-1-5">
+			<img src="temp/p2.jpg" alt="#"/>
+		</div>
+		<div class="mb-1-5">
+			<img src="temp/p3.jpg" alt="#"/>
+		</div>
+	</div>
+</div>
+<script src="js/jquery.min.js"></script>
+<!-- 页面插件开始 -->
+<!-- js页面应用 开始 -->
+<script src="js/dookayui.js"></script>
+<script src="js/ImageLoader.js"></script>
+<!-- js页面应用 结束 -->
+</body>
+
+</html>
